@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS and SvelteJS**
 
-- 💬 Ask me about **NodeJS, HTML5, CSS**
+- 💬 Ask me about **NodeJS, HTML5, CSS, Python, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
