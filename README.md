@@ -32,6 +32,7 @@
     <a href = "https://www.electronjs.org/docs/latest"><img src="https://img.shields.io/badge/electron%20-%23005457.svg?&style=for-the-badge&logo=electron&logoColor=white"/></a>
     <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/java%20-%23e65719.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
     <a href="https://git-scm.com/docs/git"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
+    <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/typescript%20-%23000675.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></a>
 </p>
 </h3>
 
