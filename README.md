@@ -26,13 +26,13 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://nodejs.org/docs/latest/api/"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-    <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/python%20-%23ffde57.svg?&style=for-the-badge&logo=python&logoColor=%ffde57"/></a>
+    <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/typescript%20-%230610c4.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></a>
 <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href = "https://www.electronjs.org/docs/latest"><img src="https://img.shields.io/badge/electron%20-%23005457.svg?&style=for-the-badge&logo=electron&logoColor=white"/></a>
     <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/java%20-%23e65719.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
     <a href="https://git-scm.com/docs/git"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
-    <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/typescript%20-%23000675.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></a>
+    <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/python%20-%23ffde57.svg?&style=for-the-badge&logo=python&logoColor=%ffde57"/></a>
 </p>
 </h3>
 
