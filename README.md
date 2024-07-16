@@ -10,7 +10,7 @@
 
 <h3 align="left">
   
-- Current Projects: [OverStadium](https://github.com/Nickeldon/OverStadium) and [OverStudio](https://github.com/Nickeldon/OverStudio)
+- Current Projects: [OverAI](https://github.com/Nickeldon/OverAI) and [OverStudio](https://github.com/Nickeldon/OverStudio)
 
   </br>
   
