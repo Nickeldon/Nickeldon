@@ -1,5 +1,6 @@
 <h1 align="center">⚡ Nickeldon ⚡</h1>
 <h3 align="center">Full-stack developer</h3>
+<h4 align="center">Software Engineering Student</h5>
 
 </br>
 </br>
