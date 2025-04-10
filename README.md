@@ -20,7 +20,7 @@
 <p align="left">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css&logoColor=white"/></a>
+    <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/java%20-%23e65719.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
     <a href="https://svelte.dev/docs/"><img src="https://img.shields.io/badge/svelte%20-%23e65719.svg?&style=for-the-badge&logo=svelte&logoColor=white"/></a>
     <a href="https://docs.arduino.cc/"><img src="https://img.shields.io/badge/arduino%20-%2300979C.svg?&style=for-the-badge&logo=arduino&logoColor=white"/></a>
 <br>
@@ -31,7 +31,7 @@
 <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href = "https://www.electronjs.org/docs/latest"><img src="https://img.shields.io/badge/electron%20-%23005457.svg?&style=for-the-badge&logo=electron&logoColor=white"/></a>
-    <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/java%20-%23e65719.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css&logoColor=white"/></a>
     <a href="https://git-scm.com/docs/git"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
     <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/python%20-%23ffde57.svg?&style=for-the-badge&logo=python&logoColor=%ffde57"/></a>
 </p>
