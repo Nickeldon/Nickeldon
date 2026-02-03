@@ -11,7 +11,7 @@
 
 <h3 align="left">
   
-- Current Projects: [OverAI](https://github.com/Nickeldon/OverAI) and [OverStudio](https://github.com/Nickeldon/OverStudio)
+- Current Projects: [Sylphr](https://github.com/Nickeldon/Sylphr) and [Maestro](https://github.com/AmmarSathar/MasterChef)
 
   </br>
   
